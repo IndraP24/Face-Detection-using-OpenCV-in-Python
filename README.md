@@ -2,6 +2,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Face-Detection-in-Python-using-OpenCV/master)
 ![](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV/blob/master/data/pic.png)
 
+*Credits: [Face Detection with Python using OpenCV](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a#78b7)*
+
 Face detection is a computer vision technology that helps to locate/visualize human faces in digital images. This technique is a specific use case of object detection technology that deals with detecting instances of semantic objects of a certain class (such as humans, buildings or cars) in digital images and videos. With the advent of technology, face detection has gained a lot of importance especially in fields like photography, security, and marketing.
 
 ## Objective
