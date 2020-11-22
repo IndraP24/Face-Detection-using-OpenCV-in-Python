@@ -1,4 +1,6 @@
-# Face Detection with Python using OpenCV
+<h1 align="center">Face Detection with Python using OpenCV</h1>
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Face-Detection-in-Python-using-OpenCV/master)
 ![](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV/blob/master/data/pic.png)
 
